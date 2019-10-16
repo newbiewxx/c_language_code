@@ -27,7 +27,7 @@ int main(void) {
 	// 取地址:
 	int count;
 	int * iptr = &count;
-
+	
 	// 取内容
 	int x = 10, * p = &x;
 	int y;
